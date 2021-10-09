@@ -1,8 +1,5 @@
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
-
     .titulo{
-        font-family: 'Bungee Shade', cursive;
         font-size:13pt;
         transition: color 0.8s;}
     #tituloPrincipal{
