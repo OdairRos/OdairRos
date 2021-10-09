@@ -1,13 +1,3 @@
-<style>
-    .titulo{
-        font-size:13pt;
-        transition: color 0.8s;}
-    #tituloPrincipal{
-        font-size:25pt;
-    }
-    .titulo:hover{color: rgb(0,146,208)}
-</style>
-
 <h2 class='titulo' id='tituloPrincipal'>Hello World!  Eu sou ODAIR J.👋</h3>
 <hr>
 
